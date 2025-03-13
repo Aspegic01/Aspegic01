@@ -2,7 +2,7 @@
 
 
 ---
-<h1 align="left">Fatheddine here! 👨🏻‍💻</h1>
+<h1 align="left">Aspegic 👨🏻‍💻</h1>
 
 [![Gmail email link](https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:fatheddine04@gmail.com)
 [![Spotify profile link](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31jtt4uoy5b3yzqhex73ikdxalqm?si=5ceb582b7eaa40d5)
@@ -15,8 +15,8 @@
 <h3 align="left">I'm from Marrakech, Morocco. I'm a proud CS student at 1337 School, diving deep into the world of programming and tech 👨🏻‍💻. When I'm not crushing bugs or building dreams, I can be found playing football ⚽️, tennis 🎾, or hitting the gym to lift some weights 🏋.</h3>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatheddine-bicane&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false" height="149" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fatheddine-bicane&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aspegic01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false" height="149" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aspegic01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
