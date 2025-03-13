@@ -23,7 +23,6 @@
 
 <!-- <img align="right" height="150" src="https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376"  /> -->
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aspegic01/Aspegic01/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aspegic01/Aspegic01/output/github-snake.svg" />
@@ -31,5 +30,3 @@
 </picture>
 
 ---
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
