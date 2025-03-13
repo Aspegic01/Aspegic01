@@ -15,8 +15,8 @@
 <h3 align="left">I'm from Marrakech, Morocco. I'm a proud CS student at 1337 School, diving deep into the world of programming and tech 👨🏻‍💻. When I'm not crushing bugs or building dreams, I can be found playing football ⚽️, tennis 🎾, or hitting the gym to lift some weights 🏋.</h3>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aspegic01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false" height="149" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aspegic&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=fatheddine-bicane&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false" height="149" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fatheddine-bicane&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -26,8 +26,8 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aspegic01/Aspegic01/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aspegic01/Aspegic01/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fatheddine-bicane/fatheddine-bicane/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fatheddine-bicane/fatheddine-bicane/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
