@@ -2,7 +2,7 @@
 
 
 ---
-<h1 align="left">Aspegic01 here! 👨🏻‍💻</h1>
+<h1 align="left">Aspegic 👨🏻‍💻</h1>
 
 [![Gmail email link](https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 [![Spotify profile link](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/your-spotify-profile)
