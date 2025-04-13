@@ -5,7 +5,7 @@
 
 <h1 align="left">Aspegic 👨🏻‍💻</h1>
 
-[![Gmail email link](https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:fatheddine04@gmail.com)
+[![Gmail email link](https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:mouadlbr359@gmail.com)
 [![Spotify profile link](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31jtt4uoy5b3yzqhex73ikdxalqm?si=5ceb582b7eaa40c...)
 [![Instagram profile link](https://img.shields.io/badge/Instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mouadlbr/)
 [![LinkedIn profile link](https://img.shields.io/badge/LinkedIn-0077B5?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatheddine-bicane-b55967343/)
